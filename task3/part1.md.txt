@@ -1,0 +1,7 @@
+﻿site_name: www
+## Информация по югу
+|Название ресурса|Ссылка|Внешний вид ресурса|
+|----------------|------|-------------------|
+|ЮГУ: Югорский государственный университет (группа в ВК)|[https://vk.com/ugrasu](https://vk.com/ugrasu)|![:](img/table/ugu_vk.png)
+|Студенческий медиацентр ЮГУ|[https://vk.com/stud_smi_ugrasu](https://vk.com/stud_smi_ugrasu)|![:](img/table/ice_vk.png)
+|YouTube канал ЮГУ|[Канал](https://www.youtube.com/channel/UCx43iULpSe_8zHtW2htXTtw/featured)|![:](img/table/youtube.png)
